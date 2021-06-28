@@ -27,8 +27,8 @@ msgid "Child's Birth Date"
 msgstr "Child's Birth Date"
 
 #: ./aoservicenav.php
-msgid "Gender of Child with ASD?"
-msgstr "Gender of Child with ASD?"
+msgid "Child with ASD Identifies as"
+msgstr "hild with ASD Identifies as"
 
 #: ./aoservicenav.php
 msgid "Is your child registered with the Ontario Autism Program?"
